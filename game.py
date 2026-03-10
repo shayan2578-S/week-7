@@ -37,7 +37,7 @@ while True:
 
     roll_number += 1
 
-print(f"\nFinal total after {roll_number - 1} rolls: {total}")
+print(f"\nFinal total after {roll_number - 1} rolls: {total}") 
 
 
 if total == target_number:
